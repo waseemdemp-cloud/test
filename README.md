@@ -3,4 +3,7 @@
 This is my first test file in the github repos
 dddd
 
-dd
+d
+
+This is second part of the directory
+
