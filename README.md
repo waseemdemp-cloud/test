@@ -5,6 +5,3 @@ This is second part of the directory
 
 
 
-ddd
-d
-dd
